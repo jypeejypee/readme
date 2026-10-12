@@ -9,7 +9,7 @@ Junior full-stack developer who builds complete, working projects: a React game 
 
 ### 🚀 Projects
 
-**[Rune of Logic](https://github.com/jypeejypee/Rune-of-Logic)**: React + Vite · [Play online](https://jypeejypee.github.io/Rune-of-Logic/)
+**[Rune of Logic](https://github.com/jypeejypee/Rune-of-Logic)**: React + Vite · [Play online](https://rune-of-logic.vercel.app/)
 - Top-down RPG that teaches Java methods and encapsulation through quests, lesson boards and turn-based quiz battles.
 - About 6,700 lines across a custom game engine, map and quest system, battle system, music and save data in the browser.
 - Engine and story kept in separate modules, so new maps, characters and lessons can be added without touching the engine.
